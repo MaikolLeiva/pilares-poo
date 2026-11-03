@@ -22,7 +22,7 @@ public class Docente extends Persona implements Auditable{
     
     @Override
     public String obtenerRol(){
-        return "Docente";
+        return "Docentes";
     }
         
     @Override
